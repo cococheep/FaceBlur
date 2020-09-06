@@ -19,6 +19,9 @@ Python3.6, OpenCV 2.x (or higher version)
 5. Press 'enter'
 6. Press 'esc' to quit
 
+## Demo Video
+https://youtu.be/ec4PTvY3uYo
+
 ## Future Work
 + Apply face recognition to distinguish faces
 + Solve problem occurred when both eyes are not cognitive
